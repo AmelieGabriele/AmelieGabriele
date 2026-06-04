@@ -1,4 +1,5 @@
-# 👩🏻‍💻 Olá! Eu sou a Amélie :)
+
+# 👾 Olá! Eu sou a Amélie :)
 
 **`Estudante de Engenharia de Software`**
 
