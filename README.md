@@ -27,7 +27,6 @@ Sou uma estudante apaixonada por tecnologia e estou constantemente buscando apre
 <br/>
 <br/>
 
-<h2 align="center">🐍 Contribuições</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmelieGabriele/AmelieGabriele/output/github-snake-dark.svg" />
