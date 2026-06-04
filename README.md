@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Amélie Gabriele
+# 👩🏻‍💻 Olá! Eu sou a Amélie :)
 
 **`Estudante de Engenharia de Software`**
 
