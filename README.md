@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👩🏻‍💻 Amélie Gabriele
 
-<!--
-**AmelieGabriele/AmelieGabriele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Engenharia de Software`**
 
-Here are some ideas to get you started:
+Sou uma estudante apaixonada por tecnologia e estou constantemente buscando aprender algo novo. Atualmente dedico meus estudos à programação, estruturas de dados, desenvolvimento de software, computação em nuvem e programação front-end. Irei utilizar este espaço para compartilhar minha jornada de aprendizado e crescimento na área de tecnologia.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Connect with me!</h3>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ameliegabriele25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+  <a href="https://www.linkedin.com/in/amelie-gabriele-sousa-da-silva/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn"></a>
+
+</div>
+
+</p>
+
+---
+
+### 👾 Linguagens e Tecnologias
+
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,gcp" />
+
+<br/>
+<br/>
+
