@@ -18,6 +18,8 @@ Sou uma estudante apaixonada por tecnologia e estou constantemente buscando apre
 
 ---
 
+<div align="center">
+  
 ### 👾 Linguagens e Tecnologias
 
 <img src="https://skillicons.dev/icons?i=c,python,html,css,js,gcp" />
